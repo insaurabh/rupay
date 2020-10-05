@@ -1,0 +1,36 @@
+{
+    "transactions": [
+      {
+        "id": 1,
+        "name": "John",
+        "remark": "Paid",
+        "amount": "60",
+        "time": "1 hour",
+        "action": "credited"
+      },
+      {
+        "id": 2,
+        "name": "Jenny",
+        "remark": "Paid",
+        "amount": "120",
+        "time": "1 day",
+        "action": "credited"
+      },
+      {
+        "id": 3,
+        "name": "Jenny",
+        "remark": "Paid",
+        "amount": "120",
+        "time": "1 day",
+        "action": "credited"
+      },
+      {
+        "id": 4,
+        "name": "Jenny",
+        "remark": "Paid back",
+        "amount": "120",
+        "time": "1 day",
+        "action": "deducted"
+      }
+    ]
+}
